@@ -64,4 +64,4 @@ Développement et structuration d'une application web au sein d'une équipe de d
 
 - [Email](mailto:pascal.beger@gmail.com)
 - [LinkedIn](https://linkedin.com/in/pascalbeger)
-- [GitHub](https://github.com/pascalbeger)
+- [GitHub](https://github.com/pascal-beger)
